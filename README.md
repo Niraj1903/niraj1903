@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Niraj Singh  
 
-<!--
-**Niraj1903/niraj1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Frontend Developer | 🚀 React | ⚡ JavaScript | 🎨 TailwindCSS  
 
-Here are some ideas to get you started:
+I love creating modern, responsive web applications and exploring new technologies.  
+Currently learning advanced algorithms and testing tools to sharpen my problem-solving skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=niraj1903&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical)
+
+---
+
+## ⚡ Skills & Tools  
+- **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+- **Testing:** Jest, React Testing Library  
+- **Build Tools:** Parcel, Webpack, Vite  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/niraj1903)  
+- [Portfolio](#) _(add your portfolio link here)_  
+- ✉️ Email: yourname@email.com  
+
