@@ -82,6 +82,15 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 ---
 
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Niraj1903&label=Profile%20views&color=0e75b6&style=flat" alt="Niraj1903" /> 
+</p>
+
+---
+
+
+![Snake animation](https://github.com/Niraj1903/Niraj1903/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 
 ---
 
