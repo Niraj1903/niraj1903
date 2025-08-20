@@ -41,19 +41,19 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 <p align="center">
   <a href="https://github.com/niraj1903/food-ordering-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=food-ordering-app&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical" />
   </a>
   <a href="https://github.com/niraj1903/todo-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todo-app&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/niraj1903/movie-finder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=movie-finder&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical" />
   </a>
   <a href="https://github.com/niraj1903/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=weather-app&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical" />
   </a>
 </p>
 
@@ -78,8 +78,8 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niraj1903"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white" /></a>
+  <a href="mailto:nirajsingh1903@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white" /></a> -->
 </p>
 
 ---
