@@ -31,6 +31,5 @@ Currently learning advanced algorithms and testing tools to sharpen my problem-s
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/niraj1903)  
-- [Portfolio](#) _(add your portfolio link here)_  
-- ✉️ Email: yourname@email.com  
+- ✉️ Email: nirajsingh1903@protonmail.com
 
