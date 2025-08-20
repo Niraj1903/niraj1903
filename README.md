@@ -18,14 +18,14 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&theme=algolia&no-frame=true&no-bg=true&margin-w=10&title=Commit,Followers,Stars,PullRequest,Issues,Repositories" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical" height="160" />
@@ -43,33 +43,42 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
   <a href="https://github.com/niraj1903/tummyCall">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical" />
   </a>
+</p>
+<p align="center"><b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery.</p>
+
+<p align="center">
   <a href="https://github.com/niraj1903/streamly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical" />
   </a>
 </p>
+<p align="center"><b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search.</p>
 
 <p align="center">
   <a href="https://github.com/niraj1903/Showbinge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical" />
   </a>
+</p>
+<p align="center"><b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.</p>
+
+<p align="center">
   <a href="https://github.com/niraj1903/Leetcode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical" />
   </a>
 </p>
+<p align="center"><b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep.</p>
 
 ---
 
 ## ⚡ Skills & Tools  
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-Parcel-orange?logo=parcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-00C9FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-92FE9D?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTL-FF4154?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parcel-orange?style=for-the-badge&logo=parcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -77,9 +86,13 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/niraj1903"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nirajsingh1903@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<!--   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/niraj1903">
+    <img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nirajsingh1903@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-92FE9D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=react&logoColor=white" /></a> -->
 </p>
 
 ---
