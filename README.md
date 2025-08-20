@@ -40,19 +40,19 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/niraj1903/food-ordering-app">
+  <a href="https://github.com/niraj1903/tummyCall">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical" />
   </a>
-  <a href="https://github.com/niraj1903/todo-app">
+  <a href="https://github.com/niraj1903/streamly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/niraj1903/movie-finder">
+  <a href="https://github.com/niraj1903/Showbinge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical" />
   </a>
-  <a href="https://github.com/niraj1903/weather-app">
+  <a href="https://github.com/niraj1903/Leetcode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical" />
   </a>
 </p>
