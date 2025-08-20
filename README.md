@@ -81,14 +81,12 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 ---
 
-## 🐍 Contribution Graph
-
+## 🐍 Contribution Snake  
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niraj1903/niraj1903/output/snake-dark.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niraj1903/niraj1903/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/niraj1903/niraj1903/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
 
 
 <!-- Footer Banner -->
