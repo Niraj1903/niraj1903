@@ -81,10 +81,7 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niraj1903/niraj1903/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 ---
 
