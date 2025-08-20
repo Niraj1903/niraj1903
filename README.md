@@ -1,35 +1,90 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Niraj%20Singh%20🚀&fontSize=50&fontColor=ffffff" />
+</p>
+
 # Hi there 👋, I'm Niraj Singh  
 
-💻 Passionate Frontend Developer | 🚀 React | ⚡ JavaScript | 🎨 TailwindCSS  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Redux+%7C+TailwindCSS;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
 
-I love creating modern, responsive web applications and exploring new technologies.  
-Currently learning advanced algorithms and testing tools to sharpen my problem-solving skills.  
+💻 Passionate **Frontend Developer** | 🚀 React | ⚡ JavaScript | 🎨 TailwindCSS  
+
+I love building modern, responsive web apps and exploring new technologies.  
+Currently diving deeper into **algorithms** & **testing frameworks** to strengthen my problem-solving skills.  
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=niraj1903&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&theme=onedark&row=1&column=6" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical" height="160" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical)
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/niraj1903/food-ordering-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=food-ordering-app&theme=radical" />
+  </a>
+  <a href="https://github.com/niraj1903/todo-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todo-app&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/niraj1903/movie-finder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=movie-finder&theme=radical" />
+  </a>
+  <a href="https://github.com/niraj1903/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=weather-app&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Skills & Tools  
-- **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
-- **Testing:** Jest, React Testing Library  
-- **Build Tools:** Parcel, Webpack, Vite  
-- **Version Control:** Git, GitHub  
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Parcel-orange?logo=parcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/niraj1903)  
-- ✉️ Email: nirajsingh1903@protonmail.com
+## 🌐 Connect with Me  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/niraj1903"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+</p>
