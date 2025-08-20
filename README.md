@@ -71,15 +71,7 @@ Currently diving deeper into **algorithms** & **testing frameworks** to strength
 
 ## ⚡ Skills & Tools  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-00C9FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-92FE9D?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTL-FF4154?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parcel-orange?style=for-the-badge&logo=parcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<p align="center"> <!-- Badges --> <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" /> <img src="https://img.shields.io/badge/Build-Parcel-orange?logo=parcel&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" /> </p>
 
 ---
 
