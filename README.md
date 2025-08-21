@@ -47,6 +47,11 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <p align="center"><b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery.</p>
 
 <p align="center">
+  ⚠️ To run this project locally, please install the  
+  <a href="https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf"><b>CORS Chrome Extension</b></a>.
+</p>
+
+<p align="center">
   <a href="https://github.com/niraj1903/streamly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical" />
   </a>
@@ -81,19 +86,15 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ---
 
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Niraj1903&label=Profile%20views&color=0e75b6&style=flat" alt="Niraj1903" /> 
 </p>
 
 ---
 
-
 ![Snake animation](https://github.com/Niraj1903/Niraj1903/blob/output/github-contribution-grid-snake.svg?raw=true)
 
-
 ---
-
 
 <!-- Footer Banner -->
 <p align="center">
