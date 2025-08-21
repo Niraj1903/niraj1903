@@ -14,7 +14,7 @@
 💻 Passionate **Frontend Developer** | 🚀 React | ⚡ JavaScript | 🎨 TailwindCSS  
 
 I love building modern, responsive web apps and exploring new technologies.  
-Currently diving deeper into **algorithms** & **testing frameworks** to strengthen my problem-solving skills.  
+Currently diving deeper into **DSA** to strengthen my problem-solving skills.  
 
 ---
 
