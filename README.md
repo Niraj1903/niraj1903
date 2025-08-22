@@ -35,12 +35,12 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical&cache_seconds=0" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&theme=radical&cache_seconds=0" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical&cache_seconds=0" />
 </p>
 
 ---
@@ -48,8 +48,8 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/niraj1903/tummyCall">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical" />
+  <a href="https://github.com/Niraj1903/tummyCall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical&cache_seconds=0" />
   </a>
 </p>
 <p align="center"><b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery.</p>
@@ -61,21 +61,21 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 <p align="center">
   <a href="https://github.com/niraj1903/streamly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical&cache_seconds=0" />
   </a>
 </p>
 <p align="center"><b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search.</p>
 
 <p align="center">
   <a href="https://github.com/niraj1903/Showbinge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical&cache_seconds=0" />
   </a>
 </p>
 <p align="center"><b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.</p>
 
 <p align="center">
   <a href="https://github.com/niraj1903/Leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical&cache_seconds=0" />
   </a>
 </p>
 <p align="center"><b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep.</p>
