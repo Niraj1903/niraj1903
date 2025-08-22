@@ -75,7 +75,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 <p align="center">
   <a href="https://github.com/niraj1903/Leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Leetcode&theme=radical" />
   </a>
 </p>
 <p align="center"><b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep.</p>
