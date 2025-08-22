@@ -84,7 +84,31 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ## ⚡ Skills & Tools  
 
-<p align="center"> <!-- Badges --> <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" /> <img src="https://img.shields.io/badge/Build-Parcel-orange?logo=parcel&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" /> </p>
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" />
+  
+  <!-- Build & Tools -->
+  <img src="https://img.shields.io/badge/Build-CRA-61DAFB?logo=create-react-app&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Babel-F9DC3E?logo=babel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI-Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphics-SVG-FFB13B?logo=svg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Quality-SonarQube-4E9BCD?logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white" />
+</p>
+
+
 
 ---
 
