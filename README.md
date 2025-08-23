@@ -51,13 +51,13 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   <tr>
     <td width="50%">
       <a href="https://github.com/Niraj1903/tummyCall">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=tummyCall&theme=radical" />
       </a>
       <p><b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery.</p>
     </td>
     <td width="50%">
       <a href="https://github.com/niraj1903/streamly">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=streamly&theme=radical" />
       </a>
       <p><b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search.</p>
     </td>
@@ -65,13 +65,13 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   <tr>
     <td>
       <a href="https://github.com/niraj1903/Showbinge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Showbinge&theme=radical" />
       </a>
       <p><b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.</p>
     </td>
     <td>
       <a href="https://github.com/niraj1903/Leetcode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Leetcode&theme=radical" />
       </a>
       <p><b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep.</p>
     </td>
