@@ -26,14 +26,13 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ---
 
-<!--## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&cache_seconds=0&theme=algolia&no-frame=true&no-bg=true&margin-w=10&title=Commit,Followers,Stars,PullRequest,Issues,Repositories,Reviews" />
 </p> 
 
 ---
 
--->
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&cache_seconds=0&show_icons=true&theme=radical" height="160" />
