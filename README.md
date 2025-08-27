@@ -26,10 +26,10 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ---
 
-## 🏆 GitHub Trophies  
+<!--## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&cache_seconds=0&theme=algolia&no-frame=true&no-bg=true&margin-w=10&title=Commit,Followers,Stars,PullRequest,Issues,Repositories,Reviews" />
-</p>
+</p> -->
 
 ---
 
