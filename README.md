@@ -77,19 +77,20 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
     </td>
   </tr>
   <tr>
-  <td width="50%">
+  <td width="50%" valign="top">
     <a href="https://github.com/niraj1903/todolist">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todolist&cache_seconds=0&theme=radical" />
     </a>
     <p><b>📝 Todo List:</b> A clean and minimal To-Do List app built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them.</p>
   </td>
-  <td width="50%">
+  <td width="50%" valign="top">
     <a href="https://progressbar-reactjs.netlify.app/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=progressbar&theme=radical&cache_seconds=0" />
     </a>
     <p><b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS.</p>
   </td>
 </tr>
+
 
 </table>
 
