@@ -93,7 +93,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 </table>
 
 <details>
-  <summary><a href="https://chips-inputs.netlify.app/" target="_blank" style="text-decoration:none; color:inherit;">Show more projects</a></summary>
+  <summary style="text-decoration:none; color:inherit;">Show more projects</summary>
 
 <table>
   <tr>
