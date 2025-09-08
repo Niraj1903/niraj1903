@@ -95,18 +95,27 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <details>
   <summary style="text-decoration:none; color:inherit;">Show more projects</summary>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <a href="https://chips-inputs.netlify.app/" target="_blank">
+    <td width="50%" valign="top" style="padding-right: 1rem;">
+      <a href="https://chips-inputs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Chips-Input&theme=radical&cache_seconds=0" />
       </a>
       <p><b>Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify.</p>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 1rem;">
+      <a href="https://accordian-react-js.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=accordion&theme=radical" />
+      </a>
+      <p><b>Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI.</p>
     </td>
   </tr>
 </table>
 
 </details>
+
+
+
 
 
 ---
