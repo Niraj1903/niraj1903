@@ -63,13 +63,13 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/niraj1903/Showbinge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Showbinge&theme=radical" />
       </a>
       <p><b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.</p>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/niraj1903/Leetcode">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Leetcode&theme=radical" />
       </a>
