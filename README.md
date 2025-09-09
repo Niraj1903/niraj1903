@@ -102,7 +102,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todolist&theme=radical&cache_seconds=0" />
       </a>
       <p>
-        <b>📝 Todo List:</b> A clean and minimal To-Do List app built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
+        <b>📝 Todo List:</b> Built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
         <a href="https://github.com/Niraj1903/todolist" target="_blank">
           <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
