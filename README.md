@@ -53,13 +53,23 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <a href="https://github.com/Niraj1903/tummyCall">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=tummyCall&theme=radical" />
       </a>
-      <p><b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery.</p>
+      <p>
+        <b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery. <br>
+        <a href="https://github.com/Niraj1903/tummyCall" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%">
       <a href="https://github.com/niraj1903/streamly">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=streamly&theme=radical" />
       </a>
-      <p><b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search.</p>
+      <p>
+        <b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search. <br>
+        <a href="https://github.com/Niraj1903/streamly" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -67,13 +77,23 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <a href="https://github.com/niraj1903/Showbinge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Showbinge&theme=radical" />
       </a>
-      <p><b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.</p>
+      <p>
+        <b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design. <br>
+        <a href="https://github.com/Niraj1903/Showbinge" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%">
       <a href="https://github.com/niraj1903/Leetcode">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=Leetcode&theme=radical" />
       </a>
-      <p><b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep.</p>
+      <p>
+        <b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep. <br>
+        <a href="https://github.com/Niraj1903/Leetcode" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -81,16 +101,27 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <a href="https://github.com/niraj1903/todolist">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todolist&cache_seconds=0&theme=radical" />
       </a>
-      <p><b>📝 Todo List:</b> A clean and minimal To-Do List app built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them.</p>
+      <p>
+        <b>📝 Todo List:</b> A clean and minimal To-Do List app built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
+        <a href="https://github.com/Niraj1903/todolist" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://progressbar-reactjs.netlify.app/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=progressbar&theme=radical&cache_seconds=0" />
       </a>
-      <p><b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS.</p>
+      <p>
+        <b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS. <br>
+        <a href="https://github.com/Niraj1903/progressbar" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 <details>
   <summary style="text-decoration:none; color:inherit;">Show more projects</summary>
@@ -101,18 +132,43 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <a href="https://chips-inputs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Chips-Input&theme=radical&cache_seconds=0" />
       </a>
-      <p><b>Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify.</p>
+      <p>
+        <b>Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify. <br>
+        <a href="https://github.com/Niraj1903/Chips-Input" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top" style="padding-left: 1rem;">
       <a href="https://accordian-react-js.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=accordion&theme=radical" />
       </a>
-      <p><b>Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI.</p>
+      <p>
+        <b>Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI. <br>
+        <a href="https://github.com/Niraj1903/accordion" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 1rem;">
+      <a href="https://pagination-react-js-dummy-json-data.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Pagination&theme=radical&cache_seconds=0" />
+      </a>
+      <p>
+        <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite. <br>
+        <a href="https://github.com/Niraj1903/Pagination" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 </details>
+
+
 
 
 
