@@ -98,8 +98,8 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/niraj1903/todolist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=todolist&theme=radical&cache_seconds=0" />
+      <a href="https://todo-list-react-js-cra.netlify.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=todolist&theme=radical&cache_seconds=0" />
       </a>
       <p>
         <b>📝 Todo List:</b> Built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
