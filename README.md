@@ -61,8 +61,8 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/niraj1903/streamly">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=streamly&theme=radical&cache_seconds=0" />
+      <a href="https://yt-streamly.netlify.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=streamly&theme=radical&cache_seconds=0" />
       </a>
       <p>
         <b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search. <br>
