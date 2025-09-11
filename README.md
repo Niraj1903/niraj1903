@@ -67,7 +67,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>🎬 Streamly:</b> A sleek video streaming platform built with React and TailwindCSS, featuring live content and smart search. <br>
         <a href="https://github.com/Niraj1903/streamly" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -80,7 +80,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design. <br>
         <a href="https://github.com/Niraj1903/Showbinge" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -91,7 +91,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep. <br>
         <a href="https://github.com/Niraj1903/Leetcode" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -104,7 +104,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>📝 Todo List:</b> Built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
         <a href="https://github.com/Niraj1903/todolist" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -115,7 +115,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS. <br>
         <a href="https://github.com/Niraj1903/progressbar" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -135,7 +135,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify. <br>
         <a href="https://github.com/Niraj1903/Chips-Input" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -146,7 +146,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI. <br>
         <a href="https://github.com/Niraj1903/accordion" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -159,7 +159,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite. <br>
         <a href="https://github.com/Niraj1903/Pagination" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
