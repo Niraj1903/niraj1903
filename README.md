@@ -126,47 +126,59 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <details>
   <summary style="text-decoration:none; color:inherit;">Show more projects</summary>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 1rem;">
-      <a href="https://chips-inputs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Chips-Input&theme=radical" />
-      </a>
-      <p>
-        <b>Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify. <br>
-        <a href="https://github.com/Niraj1903/Chips-Input" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top" style="padding-right: 1rem;">
+        <a href="https://chips-inputs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Chips-Input&theme=radical" />
         </a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 1rem;">
-      <a href="https://accordian-react-js.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=accordion&cache_seconds=0&theme=radical" />
-      </a>
-      <p>
-        <b>Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI. <br>
-        <a href="https://github.com/Niraj1903/accordion" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <p>
+          <b>🏷️ Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify. <br>
+          <a href="https://github.com/Niraj1903/Chips-Input" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 1rem;">
+        <a href="https://accordian-react-js.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=accordion&cache_seconds=0&theme=radical" />
         </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 1rem;">
-      <a href="https://pagination-react-js-dummy-json-data.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Pagination&theme=radical" />
-      </a>
-      <p>
-        <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite. <br>
-        <a href="https://github.com/Niraj1903/Pagination" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <p>
+          <b>📂 Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI. <br>
+          <a href="https://github.com/Niraj1903/accordion" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="padding-right: 1rem;">
+        <a href="https://pagination-react-js-dummy-json-data.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Pagination&theme=radical" />
         </a>
-      </p>
-    </td>
-  </tr>
-</table>
+        <p>
+          <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite. <br>
+          <a href="https://github.com/Niraj1903/Pagination" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 1rem;">
+        <a href="https://nested-checkbox.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Nested-Checkbox&theme=radical" />
+        </a>
+        <p>
+          <b>✅ Nested Checkbox:</b> A multi-level checkbox tree built with <strong>React + Vite</strong>. <br>
+          <a href="https://github.com/Niraj1903/Nested-Checkbox" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </details>
+
 
 
 
