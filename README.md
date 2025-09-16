@@ -50,7 +50,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Niraj1903/tummyCall">
+      <a href="https://github.com/Niraj1903/Tummy-Fuel">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical&cache_seconds=0" />
       </a>
       <p>
