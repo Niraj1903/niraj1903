@@ -49,18 +49,18 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Niraj1903/Tummy-Fuel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=tummyCall&theme=radical&cache_seconds=0" />
-      </a>
-      <p>
-        <b>🍔 TummyCall:</b> A high-performance, responsive food ordering app integrating Swiggy’s live API for real-time data delivery. <br>
-        <a href="https://github.com/Niraj1903/Tummy-Fuel" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <td width="50%" >
+        <a href="https://tummyfuel.netlify.app/" target="_blank" style="display: block;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tummy-Fuel&cache_seconds=0&theme=radical" />
         </a>
-      </p>
-    </td>
-    <td width="50%">
+        <p>
+          <b>🍔 Tummy Fuel:</b> Built using <strong>React Router, Tailwind CSS, and Live API Integration</strong>. Browse, search, and explore restaurant menus.<br>
+          <a href="https://github.com/Niraj1903/Tummy-Fuel" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    <td width="50%" style="margin-top: 16px;">
       <a href="https://yt-streamly.netlify.app/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=streamly&theme=radical&cache_seconds=0" />
       </a>
@@ -175,9 +175,10 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
         </p>
       </td>
     </tr>
+    
   </table>
-
 </details>
+
 
 
 
