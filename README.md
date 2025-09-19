@@ -54,7 +54,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tummy-Fuel&cache_seconds=0&theme=radical" />
         </a>
         <p>
-          <b>🍔 Tummy Fuel:</b> Built using <strong>React Router, Tailwind CSS, and Live API Integration</strong>. Browse, search, and explore restaurant menus.<br>
+          <b>🍔 Tummy Fuel:</b> Built using <strong>React Router, Tailwind CSS, and Live API Integration</strong>. Browse and explore restaurant menus.<br>
           <a href="https://github.com/Niraj1903/Tummy-Fuel" target="_blank">
             <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
