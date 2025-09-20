@@ -6,7 +6,7 @@
 # Hi there 👋, I'm Niraj Singh  
 <p align="center">
   <a href="https://niraj-singh-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 Portfolio-0A66C2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼 Portfolio-0A66C2?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1xp0cgf6O3Jij0EtnAw6WpHGofHX0Rt1F/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-333333?style=for-the-badge&logoColor=white" />
