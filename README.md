@@ -178,7 +178,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
     <tr>
       <td width="50%" valign="top" style="padding-right: 1rem;">
         <a href="https://autocomplete-search-bar-reactjs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=AutoComplete&cache_seconds=0&theme=radical&cache_seconds=0" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=AutoComplete&cache_seconds=0&cache_seconds=0&theme=radical" />
         </a>
         <p>
           <b>🔍 Autocomplete Search Bar: React search bar with debouncing, caching, and dynamic results using Tailwind CSS. <br>
