@@ -51,7 +51,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   <tr>
     <td width="50%" >
         <a href="https://tummyfuel.netlify.app/" target="_blank" style="display: block;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tummy-Fuel&cache_seconds=0&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tummy-Fuel&theme=radical&cache_seconds=0" />
         </a>
         <p>
           <b>🍔 Tummy Fuel:</b> Built using <strong>React Router, Tailwind CSS, and Live API Integration</strong>. Browse and explore restaurant menus.<br>
