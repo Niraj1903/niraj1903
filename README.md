@@ -35,7 +35,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&cache_seconds=0&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj1903&show_icons=true&theme=radical&cache_seconds=0" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj1903&cache_seconds=0&theme=radical" height="160" />
 </p>
 
