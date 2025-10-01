@@ -40,7 +40,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj1903&layout=compact&theme=radical&cache_seconds=0"/>
 </p>
 
 ---
