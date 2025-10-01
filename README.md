@@ -50,7 +50,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <table>
   <tr>
     <td width="50%" >
-        <a href="https://tummyfuel.netlify.app/" target="_blank" style="display: block;">
+        <a href="https://tummyfuel.netlify.app/" rel="noopener noreferrer" style="display: block;" target="_blank" style="display: block;">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tummy-Fuel&theme=radical&cache_seconds=0" />
         </a>
         <p>
